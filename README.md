@@ -1,3 +1,7 @@
+This is a cryptocurrency react application where you can find real-time data and latest news of crypto markets. 
+
+I fetched data from two sources, coinranking, and Bing news search, using RapidAPI.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
